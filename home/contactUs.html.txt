@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+<p>hola mundo</p>
+=======
+<h1>pagina contactanos</h1>
+>>>>>>> contact
